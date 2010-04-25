@@ -1,10 +1,8 @@
-=== Plugin Name ===
-Contributors: markjaquith, mdawaffe
-Donate link: http://example.com/
-Tags: comments, spam
-Requires at least: 2.0.2
-Tested up to: 2.1
-Stable tag: 4.3
+=== Infolinks Official Plugin ===
+Tags: infolinks, In Text ads, Pay per click advertising, monitize, contextual advertising
+Requires at least: 2.8
+Tested up to: 2.9
+Stable tag: 2.9
 
 Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
 
