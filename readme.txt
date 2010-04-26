@@ -4,11 +4,10 @@ Requires at least: 2.8
 Tested up to: 2.9
 Stable tag: 2.9
 
-he Infolinks Official Plugin for WordPress Version 2.9 enable WordPress publishers to turn their content into money with In Text advertising. 
+The Infolinks Official Plugin  - test test test
 
 == Description ==
-
-empty for now......
+test test test......
 
 A few notes about the sections above:
 
