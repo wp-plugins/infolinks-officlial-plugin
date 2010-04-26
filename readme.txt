@@ -1,4 +1,4 @@
-=== The Infolinks Official Plugin ===
+=== Infolinks Official Plugin ===
 
 Tags: test
 Requires at least: 2.8
