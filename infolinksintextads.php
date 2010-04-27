@@ -4,6 +4,7 @@ Plugin Name: Infolinks Officlial Plugin
 Plugin URI: http://www.infolinks.com
 Description: This plugin will automatically add your Infolinks script to your website pages.
 Author: Infolinks
+Version: 1.1
 Author URI: http://www.infolinks.com
 */
 
@@ -40,7 +41,7 @@ define('JS_PATH','/wp-content/plugins/info-links-in-text-ads/jquery.js');
 
 // action function for above hook
 function infolinks_pages() {
-    add_options_page('Info Links Text Ads', 'Infolinks Official Plugin', 'administrator', 'infolink-admin', 'infosettingoptions_page');
+    add_options_page('Info Links Text Ads', 'Infolinks Settings', 'administrator', 'infolink-admin', 'infosettingoptions_page');
 }
 
 
@@ -135,7 +136,7 @@ text-shadow:0 1px 0 #FFFFFF;}
             <td colspan="2" height="30">&nbsp;</td>
           </tr>
           <tr>
-            <td valign="top" width="200">Infolinks Official Plugin:</td>
+            <td valign="top" width="200">Infolinks In Text Ads:</td>
 			
             <td><input type="radio" name="infolinks_status" value="1" <?=$adsenable?> />
               On <br />
