@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Infolinks Officlial Plugin
+Plugin Name: Infolinks Official Plugin
 Plugin URI: http://www.infolinks.com
 Description: This plugin will automatically add your Infolinks script to your website pages.
 Author: Infolinks
