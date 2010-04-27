@@ -1,9 +1,8 @@
 <?php
 /*
-Plugin Name: Infolinks In Text Ads
+Plugin Name: Infolinks Officlial Plugin
 Plugin URI: http://www.infolinks.com
-Description: This plugin will automatically add your Infolinks script to your website pages..
-Version: Wordpress, 2.9
+Description: This plugin will automatically add your Infolinks script to your website pages.
 Author: Infolinks
 Author URI: http://www.infolinks.com
 */
@@ -41,7 +40,7 @@ define('JS_PATH','/wp-content/plugins/info-links-in-text-ads/jquery.js');
 
 // action function for above hook
 function infolinks_pages() {
-    add_options_page('Info Links Text Ads', 'Infolinks In Text Ads', 'administrator', 'infolink-admin', 'infosettingoptions_page');
+    add_options_page('Info Links Text Ads', 'Infolinks Official Plugin', 'administrator', 'infolink-admin', 'infosettingoptions_page');
 }
 
 
@@ -127,7 +126,7 @@ text-shadow:0 1px 0 #FFFFFF;}
     <tr>
       <td><table width="100%">
           <tr>
-            <td colspan="2"><h2>Infolinks In Text Ads</h2></td>
+            <td colspan="2"><h2>Infolinks Official Plugin</h2></td>
           </tr>
           <tr>
             <td colspan="2">This plugin will automatically add your Infolinks script to your website pages</td>
@@ -136,7 +135,7 @@ text-shadow:0 1px 0 #FFFFFF;}
             <td colspan="2" height="30">&nbsp;</td>
           </tr>
           <tr>
-            <td valign="top" width="200">Infolinks in Text Ads:</td>
+            <td valign="top" width="200">Infolinks Official Plugin:</td>
 			
             <td><input type="radio" name="infolinks_status" value="1" <?=$adsenable?> />
               On <br />
