@@ -3,7 +3,6 @@ Contributors: Infolinks.com
 Donate link: http://www.infolinks.com/
 Tags: Infolinks, In Text Advertising, Website Advertising, Pay Per Click advertising, Contextual Advertising. 
 Requires at least: 2.8
-Tested up to: 2.9
 Stable tag: 2.9
 
 Infolinks, the leading In Text advertising provider, is proud to offer its official WordPress plugin. 
