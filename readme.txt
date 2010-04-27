@@ -3,7 +3,7 @@ Contributors: Infolinks.com
 Donate link: http://www.infolinks.com/
 Tags: Infolinks, In Text Advertising, Website Advertising, Pay Per Click advertising, Contextual Advertising. 
 Requires at least: 2.8
-Stable tag: 2.9.10
+Stable tag: 2.9.11
 
 Infolinks, the leading In Text advertising provider, is proud to offer its official WordPress plugin. 
 This plugin enables WordPress Publishers to easily integrate In Text ads, an innovative method of Pay Per Click advertising.
