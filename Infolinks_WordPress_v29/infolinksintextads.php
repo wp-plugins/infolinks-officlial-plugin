@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Infolinks In Text Ads
-Plugin URI: http://www.infolinks.com/signin/implementation.html
+Plugin URI: http://www.infolinks.com
 Description: This plugin will automatically add your Infolinks script to your website pages..
 Version: Wordpress, 2.9
 Author: Infolinks
