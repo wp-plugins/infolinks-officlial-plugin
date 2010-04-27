@@ -1,4 +1,4 @@
-=== Infolinks Official Plugin ===
+===Infolinks In Text Ads===
 Contributors: Infolinks.com
 Donate link: http://www.infolinks.com/
 Tags: Infolinks, In Text Advertising, Website Advertising, Pay Per Click advertising, Contextual Advertising. 
