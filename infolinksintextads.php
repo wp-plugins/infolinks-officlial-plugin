@@ -4,7 +4,7 @@ Plugin Name: Infolinks Official Plugin
 Plugin URI: http://www.infolinks.com
 Description: This plugin will automatically add your Infolinks script to your website pages.
 Author: Infolinks
-Version: 1.1
+Version: 2.9.11
 Author URI: http://www.infolinks.com
 */
 
