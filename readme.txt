@@ -1,9 +1,9 @@
-===Infolinks Official Plugin===
+﻿===Infolinks Official Plugin===
 Contributors: Infolinks.com
 Donate link: http://www.infolinks.com/
 Tags: Infolinks, In Text Advertising, Website Advertising, Pay Per Click advertising, Contextual Advertising. 
 Requires at least: 2.8
-Tested up to: 3.2.1
+Tested up to: 3.3.1
 Stable tag: 3.0
 
 The Infolinks plugin enables WordPress Publishers to easily implement this CPC monetizing solution into WordPress sites.
@@ -97,12 +97,18 @@ Learn more about howTag Cloud can boost your earnings.
 
 == Changelog ==
 
+= 3.1 =
+* Updated tag cloud and integration guide URLs
+
 = 3.0 =
 * Complete rewrite of plugin
 * Hardened security measures
 * Updated for WordPress 3.2
 
 == Upgrade Notice ==
+
+= 3.1 =
+* Updated tag cloud and integration guide URLs
 
 = 3.0 =
 * Fixes multiple plugin bugs

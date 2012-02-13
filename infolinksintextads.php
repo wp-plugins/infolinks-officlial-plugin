@@ -4,7 +4,7 @@ Plugin Name: Infolinks Official Plugin
 Plugin URI: http://www.infolinks.com
 Description: This plugin will automatically add your Infolinks script to your website pages.
 Author: Infolinks
-Version: 3.0
+Version: 3.1
 Author URI: http://www.infolinks.com
 */
 
@@ -208,7 +208,7 @@ h2 {
 		  <tr>
 			  <td colspan="2">
 					<strong>Want to earn even more?</strong>
-					<p><a href="http://publishers.infolinks.com/signin/tag-cloud.html" target="_blank">Click here to activate Tag Cloud on your pages</a></p>
+					<p><a href="http://publishers.infolinks.com/members/tag-cloud" target="_blank">Click here to activate Tag Cloud on your pages</a></p>
 					<p>By adding Tag Cloud to your pages, you can increase your earnings with our attractive, fully-customizable cloud of keywords that display in a Tag Cloud unit at the bottom of your text.</p>
 					<p>Tag Cloud operates just like our In-Text ads, a mouse hover reveals our ad bubble, and each click equals more money for you! Our smart algorithm delivers the best keywords for each page and helps to further turn your content into money by matching each keyword with a relevant ad.</p>
 			  </td>
@@ -219,7 +219,7 @@ h2 {
       <td></td>
     </tr>
     <tr>
-      <td colspan="2">To view or edit your Infolinks account settings, please visit the <a href="http://publishers.infolinks.com/signin/implementation.html" target="_blank">Integration guide</a> <br />
+      <td colspan="2">To view or edit your Infolinks account settings, please visit the <a href="http://publishers.infolinks.com/members/1-minute-integration" target="_blank">Integration guide</a> <br />
         and <a href="http://www.infolinks.com/faq.html" target="_blank">our FAQs</a>, or contact us at <a href="mailto:support@infolinks.com">support@infolinks.com</a> </td>
     </tr>
     <tr>
