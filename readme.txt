@@ -22,7 +22,7 @@ What are In-Text ads?
 In-Text Ads look just like regular hyperlinks accept they normally appear with a double underline (although Infolinks offers the option to customize the appearance of the links.)According to Infolinks’ smart algorithm, the highest paying keywords are double underlined and advertisers bid on these keywords in real-time. A simple hover of a mouse over one of these links and a highly relevant ad will then appear to visitors at the time when they are most engaged.
 
 Infolinks In-Text ads operate on a CPC model. Every time a visitor clicks on the ad bubble – they are redirected to the advertiser’s site and the publisher gets paid. It's that easy!
-Infolinks welcomes all WordPress publishers, big and small, to give this plugin a try and experience the next generation of In-Text advertising. There are no sign-up fees, hidden commitments or qualification minimums.
+Infolinks welcomes all WordPress publishers, big and small, to give this plugin a try and experience the next generation of In-Text advertising. There are no sign-up fees, hidden commitments or qualification minimum. 
 
 == Installation ==
 
