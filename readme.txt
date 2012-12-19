@@ -17,7 +17,7 @@ Infolinks, a global advertising technology company, enables WordPress Publishers
 * Under Settings, select Infolinks Settings
 * Insert your PID and WSID
 
-<b>What is Infolinks?</b>
+*What is Infolinks?*
 
 Infolinks is an online advertising platform enabling website owners and bloggers to monetize their sites with style and ease. The Infolinks WordPress plugin gives you the ability to select from our ad buffet the products you want, making the most of the site’s “real estate” to maximize earnings. With different customizable options to choose from, Infolinks ads can fit into a site’s under-monetized space and make a real change in revenue.
 Infolinks currently offers four unique advertising options, allowing each publisher to customize their site with the winning combination that works for them. 
@@ -26,7 +26,7 @@ InSearch: Target only your search engine traffic with these unobtrusive footer a
 InTag: Display each page’s most valuable keywords in a colorful tag cloud 
 InText: Highlight your content’s top keywords with relevant, high-quality ads.
 
-<b>Powerful Technology</b>
+*Powerful Technology*
 
 All of our products are backed with In3, Infolinks’ powerful technology platform designed to deliver relevant ads in real-time to users when they’re most engaged.  In3 ensures that the highest paying ads appear, maximizing the publisher’s revenue potential. Each request is performed in real-time which takes only milliseconds. It’s in this way that Infolinks is able to analyze over one trillion words per month. For these reasons our publishers keep making money and our advertisers see true return on their investment.
 Infolinks’ In3 technology powers the fourth largest publisher marketplace in the world, driving revenue for over 100,000 sites in 128 countries. Infolinks is headquartered in Palo Alto, CA with R&D out of Tel Aviv, Israel.
