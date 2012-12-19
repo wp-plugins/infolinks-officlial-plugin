@@ -12,21 +12,21 @@ The Infolinks plugin enables WordPress Publishers to easily implement this CPC m
 
 Infolinks, a global advertising technology company, enables WordPress Publishers to easily install its advertising plugin into WordPress sites, earning revenue for websites and blogs. The plugin is so easy to use it runs itself. All you have to do is:
 
-* Download the plugin
-* Upload it to your site
-* Activate it
-* We do the rest!
+* Download and install the plugin
+* Activate the plugin
+* Under Settings, select Infolinks Settings
+* Insert your PID and WSID
 
-What is Infolinks?
+<b>What is Infolinks?</b>
 
 Infolinks is an online advertising platform enabling website owners and bloggers to monetize their sites with style and ease. The Infolinks WordPress plugin gives you the ability to select from our ad buffet the products you want, making the most of the site’s “real estate” to maximize earnings. With different customizable options to choose from, Infolinks ads can fit into a site’s under-monetized space and make a real change in revenue.
 Infolinks currently offers four unique advertising options, allowing each publisher to customize their site with the winning combination that works for them. 
 InFrame: Advertise outside the lines with beautifully designed vertical banner ads
 InSearch: Target only your search engine traffic with these unobtrusive footer ads
 InTag: Display each page’s most valuable keywords in a colorful tag cloud 
-InText: Highlight your content’s top keywords with relevant, high-quality ads
+InText: Highlight your content’s top keywords with relevant, high-quality ads.
 
-Powerful Technology
+<b>Powerful Technology</b>
 
 All of our products are backed with In3, Infolinks’ powerful technology platform designed to deliver relevant ads in real-time to users when they’re most engaged.  In3 ensures that the highest paying ads appear, maximizing the publisher’s revenue potential. Each request is performed in real-time which takes only milliseconds. It’s in this way that Infolinks is able to analyze over one trillion words per month. For these reasons our publishers keep making money and our advertisers see true return on their investment.
 Infolinks’ In3 technology powers the fourth largest publisher marketplace in the world, driving revenue for over 100,000 sites in 128 countries. Infolinks is headquartered in Palo Alto, CA with R&D out of Tel Aviv, Israel.
@@ -38,8 +38,8 @@ Infolinks welcomes all WordPress publishers, big and small, to give this plugin 
 == Installation ==
 
 1.      Download the Official Infolinks Plugin.
-2.      Activate the plugin through the 'Plugins' menu in WordPress
-3.      Visit the settings page under the Settings > Infolinks Settings submenu
+2.      Activate the plugin through the 'Plugins' menu in WordPress.
+3.      Visit the settings page under the Settings > Infolinks Settings submenu.
 4.      Complete the short form with your account details and click Save Settings.
 5.      To find your account information, log in to your Infolinks account, click on Integration guide,choose your website, and copy your PID and website ID from the presented script to the module settings page.
 
