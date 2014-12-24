@@ -4,7 +4,7 @@ Donate link: http://www.infolinks.com/
 Tags: Infolinks, In Text Advertising, Website Advertising, Pay Per Click advertising, Contextual Advertising. 
 Requires at least: 2.8
 Tested up to: 4.1
-Stable tag: 3.1.0
+Stable tag: 3.1.1
 
 The Infolinks plugin enables WordPress Publishers to easily implement this CPC monetizing solution into WordPress sites.
 
