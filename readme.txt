@@ -10,8 +10,7 @@ The Infolinks plugin enables WordPress Publishers to easily implement Infolinks�
 
 == Description ==
 
-Infolinks is a non-intrusive, content based advertising platform which enables website owners and bloggers alike to turn their content into money. Infolinks supports premium ads and because it is contextual advertising – readers are exposed to content relevant ads when they are most engaged.  Another perk of implementing In-Text ads is they don't require any additional website “real estate” and therefore leave more room for publisher’s content.
-Established in 2007 and backed by Primera Capital, Infolinks leads the industry with an attractive business model and guarantees the highest revenue share. Since the company's incorporation, tens of thousands of websites have integrated Infolinks In-Text ads.
+Infolinks is the 2'nd largest market place of digital publishers in the world, drives revenue for over 100,000 sites in 128 countries. Infolinks enables WordPress Publishers to easily install the Infolinks unique advertising plugin to improve revenues for Wordpress websites and blogs. All you have to do is:
 
 * [Sign up](http://www.infolinks.com/join-us) for Infolinks
 * Download and install the plugin
