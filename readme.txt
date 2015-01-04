@@ -4,7 +4,7 @@ Donate link: http://www.infolinks.com/
 Tags: Ads for website, Ads for websites, In text advertising, Monetize, Monetize Website, Make Money, Ads on website, Text ads, PPC ads
 Requires at least: 2.8
 Tested up to: 4.1
-Stable tag: 3.1.1
+Stable tag: 3.1.2
 
 The Infolinks plugin enables WordPress Publishers to easily implement Infolinks’ suite of advanced advertising solutions and improve revenues from their sites 
 
