@@ -6,7 +6,7 @@ Requires at least: 2.8
 Tested up to: 4.1
 Stable tag: 3.1.3
 
-The Infolinks plugin enables WordPress Publishers to easily implement Infolinks’ suite of advanced advertising solutions and improve revenues from their sites 
+The Infolinks plugin enables WordPress Publishers to easily improve revenue from their websites' unused ad space.
 
 == Description ==
 
@@ -97,8 +97,9 @@ Infolinks' platform is open to any online publisher, big or small, with no setup
 == Screenshots ==
 
 1. InFrame 
-2. InSearch
+2. InFold
 3. InText
+4. InScreen
 
 == Changelog ==
 
