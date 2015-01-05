@@ -4,7 +4,7 @@ Donate link: http://www.infolinks.com/
 Tags: Ads for website, Ads for websites, In text advertising, Monetize, Monetize Website, Make Money, Ads on website, Text ads, PPC ads
 Requires at least: 2.8
 Tested up to: 4.1
-Stable tag: 3.1.3
+Stable tag: 3.1.4
 
 The Infolinks plugin enables WordPress Publishers to easily improve revenue from their websites' unused ad space.
 
@@ -12,7 +12,7 @@ The Infolinks plugin enables WordPress Publishers to easily improve revenue from
 
 Infolinks is the 2'nd largest market place of digital publishers in the world, drives revenue for over 100,000 sites in 128 countries. Infolinks enables WordPress Publishers to easily install the Infolinks unique advertising plugin to improve revenues for Wordpress websites and blogs. All you have to do is:
 
-* [Sign up](http://www.infolinks.com/join-us) for Infolinks
+* [Sign up](www.infolinks.com/join-us?kid=9wpp) for Infolinks
 * Download and install the plugin
 * Activate the plugin Under Settings, select Infolinks Settings
 * Insert your PID and WSID
@@ -21,7 +21,7 @@ Infolinks is the 2'nd largest market place of digital publishers in the world, d
 
 Signing up for Infolinks is quick and easy. All you need to do is fill out a short form and integrate the code into your site for the ads to appear instantly.
 
-Follow these quick and easy steps to [Join](http://www.infolinks.com/join-us) Infolinks now:
+Follow these quick and easy steps to [Join](www.infolinks.com/join-us?kid=9wpp) Infolinks now:
 
 1. Complete our brief sign-up form.
 2. Our team will review your application within 48 hours.
@@ -47,7 +47,7 @@ It’s that easy! Infolinks welcomes all WordPress publishers, big and small, to
 
 == Installation ==
 
-1.	[Sign up](http://www.infolinks.com/join-us) for Infolinks.
+1.	[Sign up](www.infolinks.com/join-us?kid=9wpp) for Infolinks.
 2.	Download the Official Infolinks Plugin.
 3.	Activate the plugin through the 'Plugins' menu in WordPress.
 4.	Visit the settings page under the Settings > Infolinks Settings submenu.
@@ -66,7 +66,7 @@ Infolinks is a global advertising platform offering ad solutions for both publis
 
 Signing up for Infolinks is quick and easy. All you need to do is fill out a short form and integrate the code into your site for the ads to appear.Follow these quick and easy steps to [Join](http://www.infolinks.com/join-us) Infolinks now:
 
-1. Complete our brief  [sign up](http://www.infolinks.com/join-us) form.
+1. Complete our brief  [sign up](www.infolinks.com/join-us?kid=9wpp) form.
 2. Our team will review your application within 48 hours.
 3. Upon approval you will be able to integrate the Infolinks script into your web pages.
 4. Start earning revenue immediately!
